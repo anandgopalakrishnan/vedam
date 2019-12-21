@@ -1,0 +1,13 @@
+package com.theweekendman.vedam;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class VedamApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(VedamApplication.class, args);
+	}
+
+}
